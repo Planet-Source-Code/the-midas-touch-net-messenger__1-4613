@@ -1,0 +1,11 @@
+'vbokonly
+'vbokcancel
+'vbyesno
+'vbyesnocancel
+'vbretrycancel
+'vbAbortRetryIgnore
+
+'vbCritical
+'vbQuestion
+'vbInformation
+'vbExclamation
